@@ -1,79 +1,81 @@
-📊 Key Metrics Analyzed
-| Metric                        | Why Chosen                                | Business Importance               |
-| ----------------------------- | ----------------------------------------- | --------------------------------- |
-| Customer Lifetime Value (LTV) | Measures long-term customer profitability | Core profitability metric         |
-| Total Spent                   | Captures customer spending behavior       | Indicates revenue contribution    |
-| Total Transactions            | Measures purchase frequency               | Shows customer consistency        |
-| Loyalty Points Earned         | Measures loyalty participation            | Indicates retention likelihood    |
-| Active Days                   | Measures engagement level                 | Reflects customer activity        |
-| Referral Count                | Measures customer advocacy                | Identifies organic growth drivers |
-| Customer Segment (Created)    | Enables customer segmentation             | Supports personalized marketing   |
-| Engagement Score (Created)    | Measures behavioral quality               | Helps retention analysis          |
-| LTV:CAC Ratio (Created)       | Measures acquisition efficiency           | Critical profitability KPI        |
+## 📊 Key Metrics Analyzed
 
-🎯 Customer Segmentation Framework
+| Metric | Why Chosen | Business Importance |
+|----------|-----------|-------------------|
+| Customer Lifetime Value (LTV) | Measures long-term customer profitability | Core profitability metric |
+| Total Spent | Captures customer spending behavior | Indicates revenue contribution |
+| Total Transactions | Measures purchase frequency | Shows customer consistency |
+| Loyalty Points Earned | Measures loyalty participation | Indicates retention likelihood |
+| Active Days | Measures engagement level | Reflects customer activity |
+| Referral Count | Measures customer advocacy | Identifies organic growth drivers |
+| Customer Segment (Created) | Enables customer segmentation | Supports personalized marketing |
+| Engagement Score (Created) | Measures behavioral quality | Helps retention analysis |
+| LTV:CAC Ratio (Created) | Measures acquisition efficiency | Critical profitability KPI |
+
+---
+
+## 🎯 Customer Segmentation Framework
 
 To simplify customer management and retention planning, customers were classified into strategic segments:
 
-🌟 High-Value Customers
+### 🌟 High-Value Customers
 
 Customers with:
+- High LTV
+- High spending levels
+- Frequent transactions
+- Strong engagement scores
 
-High LTV
-High spending levels
-Frequent transactions
-Strong engagement scores
+**Business Action:** Prioritize retention initiatives, premium rewards, and personalized offers.
 
-Business Action: Prioritize retention, rewards, and personalized offers.
-
-📈 Growth Customers
-
-Customers with:
-
-Moderate LTV
-Consistent purchasing behavior
-Potential for increased engagement
-
-Business Action: Upsell, cross-sell, and loyalty program promotions.
-
-⚠️ At-Risk Customers
+### 📈 Growth Customers
 
 Customers with:
+- Moderate LTV
+- Consistent purchasing behavior
+- Potential for increased engagement
 
-Low engagement
-Declining transaction activity
-Low loyalty participation
+**Business Action:** Focus on upselling, cross-selling, and loyalty program promotions.
 
-Business Action: Launch re-engagement and retention campaigns.
+### ⚠️ At-Risk Customers
 
-🔍 Key Insights
-💰 High-Value Customer Identification
+Customers with:
+- Low engagement scores
+- Declining transaction activity
+- Low loyalty participation
 
-A small group of customers contributed a disproportionately high share of total revenue, making them critical for long-term profitability.
+**Business Action:** Launch re-engagement campaigns, targeted offers, and retention strategies.
 
-🎯 Customer Engagement Patterns
+---
 
-Customers with higher engagement scores and active days consistently generated greater lifetime value.
+## 🔍 Key Insights
 
-🔄 Loyalty Program Effectiveness
+### 💰 High-Value Customer Identification
+A relatively small segment of customers contributed a significant share of total revenue, making them essential for long-term business growth and profitability.
 
-Higher loyalty point accumulation was associated with stronger retention and increased customer spending.
+### 🎯 Customer Engagement Patterns
+Customers with higher engagement scores and more active days consistently generated greater lifetime value and demonstrated stronger purchasing behavior.
 
-📢 Referral Impact
+### 🔄 Loyalty Program Effectiveness
+Higher loyalty point accumulation was associated with improved customer retention, increased purchase frequency, and higher overall spending.
 
-Customers with higher referral counts often exhibited stronger engagement and profitability, highlighting the value of advocacy-driven growth.
+### 📢 Referral Impact
+Customers with higher referral counts often exhibited stronger engagement and profitability, highlighting the importance of advocacy-driven customer acquisition.
 
-✅ Project Outcomes
+---
+
+## ✅ Project Outcomes
 
 This project successfully:
 
-Cleaned and validated customer transaction data
-Built profitability and engagement KPIs
-Calculated Customer Lifetime Value (LTV)
-Created customer segmentation models
-Developed engagement and retention metrics
-Identified high-value and at-risk customers
-Built an interactive Power BI dashboard for stakeholder decision-making
-Business Impact
+- Cleaned and validated customer transaction data
+- Built profitability and engagement KPIs
+- Calculated Customer Lifetime Value (LTV)
+- Created customer segmentation models
+- Developed engagement and retention metrics
+- Identified high-value and at-risk customers
+- Built an interactive Power BI dashboard for stakeholder decision-making
+
+### Business Impact
 
 The analysis enables businesses to identify profitable customers, improve retention strategies, optimize acquisition spending, increase customer engagement, and maximize long-term customer value through data-driven decision-making.
