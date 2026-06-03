@@ -1,14 +1,16 @@
 📊 Key Metrics Analyzed
-Metric	Why Chosen	Business Importance
-Customer Lifetime Value (LTV)	Measures long-term customer profitability	Core profitability metric
-Total Spent	Captures customer spending behavior	Indicates revenue contribution
-Total Transactions	Measures purchase frequency	Shows customer consistency
-Loyalty Points Earned	Measures loyalty participation	Indicates retention likelihood
-Active Days	Measures engagement level	Reflects customer activity
-Referral Count	Measures customer advocacy	Identifies organic growth drivers
-Customer Segment (Created)	Enables customer segmentation	Supports personalized marketing
-Engagement Score (Created)	Measures behavioral quality	Helps retention analysis
-LTV:CAC Ratio (Created)	Measures acquisition efficiency	Critical profitability KPI
+| Metric                        | Why Chosen                                | Business Importance               |
+| ----------------------------- | ----------------------------------------- | --------------------------------- |
+| Customer Lifetime Value (LTV) | Measures long-term customer profitability | Core profitability metric         |
+| Total Spent                   | Captures customer spending behavior       | Indicates revenue contribution    |
+| Total Transactions            | Measures purchase frequency               | Shows customer consistency        |
+| Loyalty Points Earned         | Measures loyalty participation            | Indicates retention likelihood    |
+| Active Days                   | Measures engagement level                 | Reflects customer activity        |
+| Referral Count                | Measures customer advocacy                | Identifies organic growth drivers |
+| Customer Segment (Created)    | Enables customer segmentation             | Supports personalized marketing   |
+| Engagement Score (Created)    | Measures behavioral quality               | Helps retention analysis          |
+| LTV:CAC Ratio (Created)       | Measures acquisition efficiency           | Critical profitability KPI        |
+
 🎯 Customer Segmentation Framework
 
 To simplify customer management and retention planning, customers were classified into strategic segments:
